@@ -63,6 +63,8 @@ Expected: Animation is running
 Actual: Not
 5)
 It seems score is not synchronized when the player hust connected into running game
+6)
+For client the mode is random, not from the server. 
 
 Client 1:
 Character 1 + Movement Direction + Control
